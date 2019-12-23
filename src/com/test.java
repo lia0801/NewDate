@@ -12,6 +12,9 @@ public class test {
 		
 		System.out.println("qqqqqqq");
 		System.out.println("0000000");
+		
+		System.out.println("tttttttt");
+		System.out.println("pppppppp");
 	}
 
 }
